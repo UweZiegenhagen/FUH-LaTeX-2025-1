@@ -38,7 +38,7 @@ Jeweils grundsätzlich von 19:00 Uhr bis 21:00 Uhr, in Summe also 10 Stunden.
 ## Was wird benötigt
 
 * Ein Rechner (Laptop, Desktop) mit Windows, MacOS oder Linux
-* TeX Live 2024 herunterladen und installieren von tug.org/texlive. Eine Anleitung (für TeX Live 2022, es hat sich aber fast nichts geändert) habe ich unter https://www.youtube.com/watch?v=k9KhuZz7k-Q veröffentlicht.
+* TeX Live 2025 herunterladen und installieren von tug.org/texlive. Eine Anleitung (für TeX Live 2022, es hat sich aber fast nichts geändert) habe ich unter https://www.youtube.com/watch?v=k9KhuZz7k-Q veröffentlicht.
 * Wenn ihr unter Linux arbeitet: Bitte nicht aus den Distributionsquellen nehmen, sondern auch von tug.org installieren. Das TeX Live in den Distributionen ist oft nicht aktuell. 
 * Mac-User installieren bitte MacTeX (auch auf der tug.org Seite frei verfügbar)
 * Ein Editor zur Bearbeitung der TeX-Dateien: TeX Live bringt für Mac und Windows TeXworks mit, einen guten und einfach zu bedienenden Editor, den ich gern benutze. TeX Studio und Visual Studio Code (mit der ``LaTeX Workshop`` Erweiterung von James Yu) kann ich ebenfalls sehr empfehlen.
@@ -105,6 +105,9 @@ Die Kursinhalte sind flexibel und orientieren sich am Bedarf und Tempo der Teiln
 * Syntaxhighlighting mit pygments
 * Editoren: ``TeXworks`` versus ``Visual Studio Code`` 
 * Frage-und-Antwort-Teil: was fehlt euch noch, was wolltet ihr schon immer mal TeXen?
+
+
+### Tag 5 - TikZ und Sonstiges
 
 
 
