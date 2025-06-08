@@ -21,7 +21,8 @@ vorzugsweise in ein privates Repo da ich gern Wildwuchs verhindern möchte.
 
 ## Anmeldung für FUH-Student*innen
 
-Via https://cryptpad.fr/form/#/2/form/view/rkMor59InKpcxcIonC42tgs0YhmJ3feIjTRYURl8k6M/
+Via https://cryptpad.fr/form/#/2/form/view/6eMx9D4tcZfVFA8XGnKFmfA2--I09BnRG3xeoQ8Zxiw/
+
 
 ## Der Kurs
 
